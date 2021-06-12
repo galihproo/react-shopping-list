@@ -1,0 +1,17 @@
+.empty {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    height: 100vh;
+
+    color: var(--main-font-color);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.empty > img {
+    width: 200px;
+    margin-bottom: 16px;
+}
