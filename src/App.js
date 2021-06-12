@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import classnames from 'classnames'
 
 import Navbar from './components/Navbar'
 import Container from './components/Container'
